@@ -4,7 +4,6 @@
 ![Java](https://img.shields.io/badge/Java-11+-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.9+-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.16+-brightgreen)
-![Safari](https://img.shields.io/badge/Safari-18.5+-blueviolet)
 ![Test Coverage](https://img.shields.io/badge/Test_Coverage-100%25-green)
 
 **Тестирование функционала профиля в веб-приложении Mesto**
